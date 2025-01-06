@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_menjars"
+        android:icon="@drawable/ic_food"
+        android:title="Menjars" />
+    <item
+        android:id="@+id/nav_begudes"
+        android:icon="@drawable/ic_drink"
+        android:title="Begudes" />
+    <item
+        android:id="@+id/nav_postres"
+        android:icon="@drawable/ic_dessert"
+        android:title="Postres" />
+    <item
+        android:id="@+id/nav_pagament"
+        android:icon="@drawable/ic_payment"
+        android:title="Pagament" />
+</menu>
